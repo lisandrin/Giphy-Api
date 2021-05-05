@@ -1,5 +1,6 @@
 # GiphyApi
 
+Giphy App by Angular, using SCSS, Giphy-api and Typescript.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
 
 ## Development server
